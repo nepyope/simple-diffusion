@@ -1,0 +1,9 @@
+gdown
+torch
+numpy
+pafy
+Pillow
+einops
+pytorch_lightning
+youtube-dl==2020.12.2
+cv2

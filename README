@@ -1,0 +1,2 @@
+The goal of this repo is to reduce the stable diffusion inference pipeline to as few lines of code as possible. For now, it's just the VAE.
+After installing the required libraries, run dump.py with -url as argument in order to dump VAE embeddings, dumps will be dumped in the dump folder. To test the autoencoder on test.jpg, run test.py.
